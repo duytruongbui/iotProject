@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "242495087134",
+    "project_id": "thesis-for-iot",
+    "storage_bucket": "thesis-for-iot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242495087134:android:d37c0d1f104c3b126e440f",
+        "android_client_info": {
+          "package_name": "com.example.mei_blu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242495087134-1km7ir13cvbre785qvie07vfvih2atpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3HcisDRQYN8P3JvXWCCOUUse1At0Xi38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242495087134-1km7ir13cvbre785qvie07vfvih2atpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -35,7 +35,7 @@ public class main_1 extends AppCompatActivity {
     private ImageView blue, voice;
     private TextView demo;
 
-    private static final int REQUEST_CODE_SPEECH_INPUT = 1; // khai báo biến giọng nói
+    static final int REQUEST_CODE_SPEECH_INPUT = 1; // khai báo biến giọng nói
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

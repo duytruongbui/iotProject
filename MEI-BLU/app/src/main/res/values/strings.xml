@@ -3,4 +3,21 @@
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
     <string name="none_paired">No devices have been paired</string>
+
+    <string name="des_waving_hand">waving hand</string>
+    <string name="welcome">Welcome Home,</string>
+    <string name="name">Tam</string>
+
+    <string name="des_celsius">celsius</string>
+    <string name="tempText">Temperature</string>
+    <string name="tempNumber">30</string>
+    <string name="tempDegree">\u2103</string>
+
+    <string name="des_humidity">humidity</string>
+    <string name="humidityText">Humidity</string>
+    <string name="humidityNumber">30</string>
+    <string name="humidityPercents">%</string>
+
+    <string name="ledText">Light</string>
+    <string name="doorText">Door</string>
 </resources>

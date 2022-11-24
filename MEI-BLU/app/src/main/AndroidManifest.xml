@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-        package="com.example.mei_blu">
+    package="com.example.mei_blu">
 
     <uses-permission android:name="android.permission.BLUETOOTH" />
     <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
@@ -18,14 +18,14 @@
         <activity
             android:name=".First"
             android:exported="true" />
-        <activity
-            android:name=".MainActivity"
-            android:exported="true" />
+<!--        <activity-->
+<!--            android:name=".MainActivity"-->
+<!--            android:exported="true" />-->
         <activity
             android:name=".main_2"
             android:exported="true" />
         <activity
-            android:name=".main_1"
+            android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
